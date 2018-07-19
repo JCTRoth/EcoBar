@@ -11,8 +11,8 @@ regular power plug.
 
 #### The EcoBar software:
 * The user can set there the switch timer of the EcoBar.
-* The user get's a warning if the device is not connected to the PC.
-* The user get's information about the EcoBar and it's handling.
+* The user gets a warning if the device is not connected to the PC.
+* The user gets information about the EcoBar and its handling.
 
 ![Image GUI 1](/screens/EcoBar_1.png)
 ![Image GUI 2](/screens/EcoBar_2.png)
